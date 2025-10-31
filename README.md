@@ -1,2 +1,2 @@
-# c-projects
+# cpp-projects
 first repository
